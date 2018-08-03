@@ -16,7 +16,7 @@ development:
   username: root
   password: 12345
   database: mydb
-  host: localhost
+  host: 127.0.0.1
   socket: C:/xampp/mysql/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
